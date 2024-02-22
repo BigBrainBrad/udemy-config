@@ -1,0 +1,11 @@
+build:
+  version: "3.0 qa"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "QA - QA"
+    email: "qa@eazybank.com"
+  onCallSupport:
+    - (888) 888-1234
+    - (888) 888-1235

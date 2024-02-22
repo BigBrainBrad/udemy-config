@@ -1,0 +1,11 @@
+build:
+  version: "1.0 default"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Default - Default"
+    email: "default@eazybank.com"
+  onCallSupport:
+    - (777) 777-1234
+    - (777) 777-1345

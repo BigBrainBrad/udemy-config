@@ -1,0 +1,11 @@
+build:
+  version: "3.0 prod"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Prod - Prod"
+    email: "prod@eazybank.com"
+  onCallSupport:
+    - (444) 444-1234
+    - (444) 444-1235

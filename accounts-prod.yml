@@ -1,0 +1,11 @@
+build:
+  version: "3.0 prod"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Prod - Prod"
+    email: "prod@eazybank.com"
+  onCallSupport:
+    - (777) 777-1234
+    - (777) 777-1235
