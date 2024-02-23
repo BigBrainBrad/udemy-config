@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "Prod - Prod 6:28"
+    name: "Prod - Prod 6:41"
     email: "{cipher}d18b55bc591c48a74b9d55db84201755124031b15c18976c370152f35948e04b8a3b36df81fef6b4fe8a6cbeb654290d"
   onCallSupport:
     - (777) 777-1234
