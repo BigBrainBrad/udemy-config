@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Prod - Prod 9:27"
+    name: "Prod - Prod 9:30"
     email: "prod@eazybank.com"
   onCallSupport:
     - (444) 444-1234
